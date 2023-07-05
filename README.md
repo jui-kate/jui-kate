@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there👋
+
+🌱 Currently learning more about Machine Learning and NLP
+👯 Looking to collaborate on python projects related to finance, e-commerce and environment
+🫴 Confident helping with exploratory data analysis, data sourcing (APIs/web-scraping), data wrangling/preprocessing,
+data visualization & machine learning
+
+Languages & Tools:
+🐍 Python
+🪐 JupyterNotebook
+🐘 PostgreSQL
+☁️ GoogleCloud
+🐳 Docker
 
 <!--
 **jui-kate/jui-kate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
